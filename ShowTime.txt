@@ -1,0 +1,7 @@
+public class ShowTime
+{
+	public static boid main(String[] args)
+	{
+	 System.out.println(Calendar.getInstance().getTime());
+	}
+}
